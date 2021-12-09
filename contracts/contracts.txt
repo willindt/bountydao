@@ -2,21 +2,34 @@ BOUNTY:
 https://snowtrace.io/address/0xae9f98865fD356a4709cE4fc9FB384AD5a323b1E#code
 
 SBOUNTY:
+OLD: 
 https://snowtrace.io/address/0x91AA967844474eFEBA152C6D238d2046443BB691#code
+NEW: 
+https://snowtrace.io/address/0x112a56537d68E842eF692a86096941E429330A0E#code
 
 Staking:
+OLD: 
 https://snowtrace.io/address/0x3c74477D0a7A6728836C67B4f06024c94f236Cfa#code
+NEW: 
+https://snowtrace.io/address/0xE9F7344F9e33a5F69c19769fE6CA831613B4C685#code
 
 StakingHelper:
+OLD: 
 https://snowtrace.io/address/0x852F44bEeeFf4f8885Bc0FE9356eF47EE81c878E#code
+NEW: 
+https://snowtrace.io/address/0x894c917c7C49677fD759fe701BB2371B73d1d934#code
 
 StakingWarmup:
+OLD: 
 https://snowtrace.io/address/0xE042D3e686Dd31e7d8Df359CC4E41Ff4F3B0D7D9#code
+NEW: 
+https://snowtrace.io/address/0x5995781256ff556969942295efc4a642eeef12d6#code
 
 TREASURY:
 https://snowtrace.io/address/0x37E89120Af582804d07F050807Ab77177ecE3ca6#code
 
 StakingDistributor:
+OLD: 
 https://snowtrace.io/address/0xc7DE30126A2fb223203A4c852C31Dda472306240#code
 
 MIM token address:
