@@ -1,0 +1,43 @@
+BOUNTY:
+https://snowtrace.io/address/0xae9f98865fD356a4709cE4fc9FB384AD5a323b1E#code
+
+SBOUNTY:
+https://snowtrace.io/address/0x91AA967844474eFEBA152C6D238d2046443BB691#code
+
+Staking:
+https://snowtrace.io/address/0x3c74477D0a7A6728836C67B4f06024c94f236Cfa#code
+
+StakingHelper:
+https://snowtrace.io/address/0x852F44bEeeFf4f8885Bc0FE9356eF47EE81c878E#code
+
+StakingWarmup:
+https://snowtrace.io/address/0xE042D3e686Dd31e7d8Df359CC4E41Ff4F3B0D7D9#code
+
+TREASURY:
+https://snowtrace.io/address/0x37E89120Af582804d07F050807Ab77177ecE3ca6#code
+
+StakingDistributor:
+https://snowtrace.io/address/0xc7DE30126A2fb223203A4c852C31Dda472306240#code
+
+MIM token address:
+https://snowtrace.io/token/0x130966628846BFd36ff31a822705796e8cb8C18D
+
+DAO:
+https://snowtrace.io/address/0xAe6c2FC6a577f80cBb712248a329dFaB1150C888#code
+
+MIM-BondDepository:
+https://snowtrace.io/address/0x06e547AD43095EA2e5bE41ddbaD0607533b18fe1#code
+
+MIM-BOUNTY LP:
+https://snowtrace.io/address/0x671086E7149043eeE2D93F00bF66788B3ecd35e8
+
+BondCalculator:
+https://snowtrace.io/address/0x1198470bFB49fd205F4C8dDCd886cE6216dA671F#code
+
+MIM-BOUNTY LP BOND:
+https://snowtrace.io/address/0xbB6bB0a603d2926C8ABeb3cE857aE16F68a052d2#code
+
+
+0x0878640d4E975ead10CA5d1401fb4171E2D07035
+
+0x0000000000000000000000000000000000000000
