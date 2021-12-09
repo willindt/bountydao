@@ -40,7 +40,7 @@ function NavContent() {
     return (
         <div className="dapp-sidebar">
             <div className="branding-header">
-                <Link href="https://traverse.money" target="_blank">
+                <Link href="https://bountydao.co" target="_blank">
                     <img alt="" src={WonderlandIcon} width={130}/>
                 </Link>
 
@@ -127,7 +127,7 @@ function NavContent() {
                             <p>Calculator</p>
                         </div>
                     </Link>
-                    <Link href="https://traverse.gitbook.io/traverse/" target="_blank" className={classnames("button-dapp-menu", { active: isActive })}>
+                    <Link href="https://bountydao.gitbook.io/bountydao/" target="_blank" className={classnames("button-dapp-menu", { active: isActive })}>
                         <div className="dapp-menu-item">
                             <img alt="" src={DocsIcon} />
                             <p>Docs</p>

@@ -18,12 +18,12 @@ function Main() {
                 <p>and earn compounding interest</p>
             </div> */}
             <div className="landing-main-btns-wrap">
-                <Link href="https://app.traverse.money" target="_blank" rel="noreferrer">
+                <Link href="https://app.bountydao.co/" target="_blank" rel="noreferrer">
                     <div className="landing-main-btn">
                         <p>Enter App</p>
                     </div>
                 </Link>
-                <Link href="https://traverse.gitbook.io/traverse/" target="_blank" rel="noreferrer">
+                <Link href="https://bountydao.gitbook.io/bountydao/" target="_blank" rel="noreferrer">
                     <div className="landing-main-btn">
                         <p>More</p>
                     </div>
