@@ -15,7 +15,7 @@ const addChainRequest = () => {
                 chainId: "0xa86a",
                 chainName: "Avalanche Mainnet",
                 rpcUrls: ["https://api.avax.network/ext/bc/C/rpc"],
-                blockExplorerUrls: ["https://cchain.explorer.avax.network/"],
+                blockExplorerUrls: ["https://snowtrace.io/"],
                 nativeCurrency: {
                     name: "AVAX",
                     symbol: "AVAX",
